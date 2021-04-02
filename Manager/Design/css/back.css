@@ -1,0 +1,121 @@
+/** Dashboard **/
+nav ul a:hover{
+    padding-top: 5px;
+}
+.count-show{
+    font-size: 50px;
+    text-align: center;
+}
+/** Dashboard **/
+
+/** Profile Manager **/
+#profile-img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+/** Profile Manager **/
+
+/** Aministrator **/
+.admin-title{
+    text-decoration: underline;
+}
+.admin-count{
+    font-size: 27px;
+    color: black;
+    font-style: oblique;
+}
+#profile-img{
+    height: 150px;
+    width: 165px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 5px;
+}
+.info-admin{
+    position: relative;
+    height: max-content;
+    width: 200px;
+}
+.show-option a{
+    font-size: large;
+    font-style: italic;
+    color: darkcyan;
+    font-weight: lighter;
+    text-decoration: none;
+}
+.show-option .active{
+    color: red;
+}
+.alert{
+    font-size: x-large;
+}
+/** Aministrator **/
+
+/** Client **/
+.status-activate{
+    background-color: red;
+    color: white;
+    font-size: medium;
+    width: fit-content;
+    right: -100px;
+    position: relative;
+    top: -20px;
+}
+/** Client **/
+/** State **/
+.paye{
+    color: green;
+    font-size: inherit;
+    font-weight: 500;
+}
+.reste{
+    color: red;
+    font-size: inherit;
+    font-weight: 500;
+}
+/** State **/
+
+/** Fiche **/
+.fiche{
+    width: fit-content;
+    font-size: larger;
+    margin: auto;}
+/** Fiche **/
+
+/** Dashboard **/
+.count span{
+    font-size: 50px;
+    text-align: center;
+}
+.in{
+    background-color: green;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    border-radius: 50%;
+    padding: 60px;
+    border-radius: 50%;
+    height: 210px;
+    width: 240px;
+    margin-left: auto;
+}
+.out{
+    background-color: red;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    padding: 60px;
+    border-radius: 50%;
+    height: 210px;
+    width: 240px;
+}
+.comments p{
+    font-size: x-large;
+    background-color: yellowgreen;
+    border-radius: 12px;
+    padding: 5px;
+    position: relative;
+}
+/** Dashboard **/
